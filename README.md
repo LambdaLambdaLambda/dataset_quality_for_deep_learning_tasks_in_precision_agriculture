@@ -3,11 +3,9 @@ Dataset quality for deep learning tasks in precision agriculture: a case study o
 
 Steps to reproduce the results of the paper:
 
-1. Create a Python 3.10 environment and run the command:
+1. Create a Python 3.10 environment and run the following command to install the necessary packages:
 
 ```pip install -r requirements.txt```
-
-to collect all the packages.
 
 2. Follow the instructions in the notebook 'Dataset_preparation.ipynb' to download the datasets and prepare the folders with the images.
 
